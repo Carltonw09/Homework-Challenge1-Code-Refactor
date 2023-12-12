@@ -18,7 +18,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 This is a preview of the website. 
 
     ```md
-    ![Alt text](image-2.png)
+ ![Alt text](image-3.png)
     ```
 
 ## License
