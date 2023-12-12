@@ -18,6 +18,7 @@ It is done when all that can be consoladated in css are consoladated.
 ## Assets
 
 This is a preview of the website. 
+https://carltonw09.github.io/Homework-Challenge1-Code-Refactoring/
 
  ![Alt text](image-3.png)
 
