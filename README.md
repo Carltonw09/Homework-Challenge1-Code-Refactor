@@ -11,15 +11,16 @@ Refactoring non semantic into semantics to meet a certain set of standard, for e
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+It is done when all non semantic is turned into semantic.
+It is done when all h1,h2,h3 are in order in css.style.
+It is done when all that can be consoladated in css are consoladated.
 
-## Usage
+## Assets
 
 This is a preview of the website. 
 
-    ```md
  ![Alt text](image-3.png)
-    ```
+
 
 ## License
 
